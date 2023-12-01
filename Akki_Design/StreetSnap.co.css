@@ -1,0 +1,70 @@
+.h3_div{
+    color: #000;
+    font-family: Raleway;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+.parent-div{
+    position: fixed;
+}
+.wearCon{
+    text-align: center;
+}
+.firstTShirst{
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.shirts-div{
+display: flex;
+justify-content: center;
+}
+.description1{
+color: #292929;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.price1{
+color: #292929;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.main-div{
+flex-shrink: 0;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.40) 0%, rgba(0, 0, 0, 0.40) 100%), url(<path-to-image>), lightgray 0px -180.499px / 100% 278.41% no-repeat;
+}
+.arrival-div{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.40) 0%, rgba(0, 0, 0, 0.40) 100%), url(<path-to-image>), lightgray 0px -180.499px / 100% 278.41% no-repeat;
+    background-image: url("./assets/arrival.svg");
+    align-items: center;
+    text-align: center;
+    color: #FFF;
+    background-size: 100%;
+    padding: 400px;
+    background-repeat: no-repeat;
+
+
+}
+
+.explore{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+
